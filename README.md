@@ -1,4 +1,3 @@
 - 👋 Hi, I’m wenju
 - work place:shanghai
 - skill:Android,iOS,vue,Wechat Mini Program,java,kotlin,swift...
-- bolg:https://wenju999.github.io
