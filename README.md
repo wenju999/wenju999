@@ -3,16 +3,13 @@
 ## 🌍 About Me | 关于我
 - 📍 Based in **Shanghai**  
 - 💻 Skilled in **Android, iOS, Vue, WeChat Mini Program**  
-- ☕ Proficient in **Java, Kotlin, Swift**  
-- 🚀 Passionate about building efficient and user-friendly applications  
+- ☕ Proficient in **Java, Kotlin, Swift**   
 
 ---
 
 - 📍 工作地点：**上海**  
 - 💻 技能方向：**Android、iOS、Vue、微信小程序**  
 - ☕ 熟悉语言：**Java、Kotlin、Swift**  
-- 🚀 热衷于开发高效、易用的应用程序  
-
 ---
 
 ## 🔧 Skills | 技能
