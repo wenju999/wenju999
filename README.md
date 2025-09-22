@@ -23,6 +23,3 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-## 👀 Profile Views | 访问量
-![Profile Views](https://komarev.com/ghpvc/?username=wenju&color=blue&style=flat-square)
