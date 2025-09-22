@@ -24,14 +24,5 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
----
-
-## 📊 GitHub Stats | GitHub 数据
-![Wenju's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenju&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenju&layout=compact&theme=radical)
-
----
-
 ## 👀 Profile Views | 访问量
 ![Profile Views](https://komarev.com/ghpvc/?username=wenju&color=blue&style=flat-square)
